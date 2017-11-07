@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   width="841.89px" height="595.275px" viewBox="0 0 841.89 595.28" enable-background="new 0 0 841.89 595.28"
+   xml:space="preserve">
+
+<circle name="客户关系管理系统" fill="#f0f0f0" stroke="aqua" cx="150" cy="90" r="23.29"/>
+<circle name="核心国结系统" fill="#f0f0f0" stroke="aqua" cx="110" cy="160" r="32.48"/>
+<circle name="全流程信贷系统" fill="#f0f0f0" stroke="aqua" cx="60" cy="230" r="13.53"/>
+<circle name="中小企业贷款管理系统" fill="#f0f0f0" stroke="aqua" cx="10" cy="300" r="29.01"/>
+<circle name="核心系统" fill="#f0f0f0" stroke="aqua" cx="60" cy="370" r="17.19"/>
+<circle name="核心报表系统" fill="#f0f0f0" stroke="aqua" cx="110" cy="440" r="45.16"/>
+<circle name="核心柜面系统" fill="#f0f0f0" stroke="aqua" cx="150" cy="510" r="13.71"/>
+<circle name="DS系统" fill="#f0f0f0" stroke="#ffff92" cx="225" cy="265" r="35.47"/>
+<circle name="ODS系统" fill="#f0f0f0" stroke="#ffff92" cx="380" cy="200" r="26.57"/>
+<circle name="临时区" fill="#f0f0f0" stroke="#ffff92" cx="340" cy="340" r="31.45"/>
+<circle name="基础汇总区" fill="#f0f0f0" stroke="#ffff92" cx="420" cy="360" r="32.3"/>
+<circle name="统一报表集市" fill="#f0f0f0" stroke="#ffff92" cx="500" cy="370" r="10.18"/>
+<circle name="统一报表" fill="#f0f0f0" stroke="#d7ffe6" cx="600" cy="300" r="62.65"/>
+<circle name="关键业务指标应用系统" fill="#f0f0f0" stroke="#d7ffe6" cx="700" cy="300" r="8.29"/>
+<!---->
+<circle name="统一交换平台" fill="#f0f0f0" stroke="#d7ffe6" cx="380" cy="440" r="26.57"/>
+<circle name="大数据平台" fill="#f0f0f0" stroke="#d7ffe6" cx="450" cy="510" r="35.47"/>
+<circle name="ESB数据交换通道" fill="#f0f0f0" stroke="#d7ffe6" cx="380" cy="70" r="35.47"/>
+<circle name="统一授权系统" fill="#f0f0f0" stroke="#d7ffe6" cx="600" cy="90" r="15"/>
+
+</svg>
