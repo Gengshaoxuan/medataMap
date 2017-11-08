@@ -24,6 +24,8 @@ function (ec) {
             getGeoJson: function (callback) {
                 $.ajax({
                     url: "img/svg4.svg",
+                    // url: "img/map04-1-01.svg",
+                    // url: "img/3333333.svg",
                     // url: "svg/football.svg",
                     dataType: 'xml',
                     // dataType: 'jsonp',
@@ -66,6 +68,9 @@ function (ec) {
                 x: '85%',
                 y: '5%',
                 selectedMode:'multiple',
+                backgroundColor:'purple',
+                borderWidth:2,
+                borderColor:'#00ff00',
                 // splitNumber:14,
                 // calculable : true,
                 // color: ['#308FF1', '#D89740', '#00ff00']
@@ -122,8 +127,8 @@ function (ec) {
                     scaleLimit:{min:0.8,max:1.5},//缩放限制
                     markPoint : {
                         // symbol:'image://img/star.png',
-                        symbol:'image://img/1.jpg',
-                        // symbol:'circle',
+                        // symbol:'image://img/1.jpg',
+                        symbol:'circle',
                         symbolSize : 100,
                         effect : {
                             show: true,
@@ -649,6 +654,7 @@ function (ec) {
          });
         //highcharts 双环3D饼图 结束
 
+console.log(option)
         ///
 //展示点击方法
 var ecConfig = require('echarts/config');
